@@ -1,7 +1,13 @@
-# Starter Next/Hardhat Project
+# FrontendAssessment
+This project demonstrates passing simple functions to the frontend with Next.js.
+<br>This is a modification of the given SCM Starter Template.
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+# Description
+Project is done in Solidity.
+<br>In this project, aside from the included functions from the starter template, functions such as displaying the name, and displaying the gas is present.
 
+# Running the program
+***Instructions are directly from the SCM Starter Template***
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
 3. In the second terminal type: npx hardhat node
@@ -10,3 +16,6 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Authors
+CoolUsername99
