@@ -19,3 +19,4 @@ Typically at http://localhost:3000/
 
 ## Authors
 CoolUsername99
+Metacrafter Chris (template provider)
