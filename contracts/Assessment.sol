@@ -57,4 +57,14 @@ contract Assessment {
         // emit the event
         emit Withdraw(_withdrawAmount);
     }
+
+    // new code functions below
+    function intro(string memory username) public pure returns (string memory) {
+        return string(abi.encodePacked("Hello, ", username));
+    }
+
+    function get_gas_left() public view returns (uint256) {
+        return gasleft();
+    }
+
 }
